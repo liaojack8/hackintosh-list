@@ -170,12 +170,33 @@
 		"Link": "https://github.com/fangf2018/ASRock-Z370-Gaming-ITX-ac-hackintosh"
 	},
 	{
-	"Motherboard": "华南 B75",
-"CPU": "E3-1230-v2",
-"GPU": "迪兰恒进 RX460",
-"Audio": "",
-"Network": "BCM94360CD",
-"OS": "10.15.5",
-"Author": "lafish",
-"Link": "https://github.com/LeUKi/Hackintosh-EFI-huanan_B75"}
+		"Motherboard": "华南 B75",
+		"CPU": "E3-1230-v2",
+		"GPU": "迪兰恒进 RX460",
+		"Audio": "",
+		"Network": "BCM94360CD",
+		"OS": "10.15.5",
+		"Author": "lafish",
+		"Link": "https://github.com/LeUKi/Hackintosh-EFI-huanan_B75"
+	},
+	{
+		"Motherboard": "MSI H97-E35",
+		"CPU": "Intel® i5-4460",
+		"GPU": "Intel® HD Graphics 4600",
+		"Audio": "Realtek® ALC887",
+		"Network": "Realtek® RTL8111G",
+		"OS": "10.15.3",
+		"Author": "liaojack8",
+		"Link": "https://github.com/liaojack8/MSI-H97-Hack"
+	},
+	{
+		"Motherboard": "ASUS-Z390-F",
+		"CPU": "Intel® i7-8700",
+		"GPU": "MSI RX 580 8GB",
+		"Audio": "SupremeFX S1220A Realtek® ALCS1220A",
+		"Network": "Intel® I219-V",
+		"OS": "10.14.6",
+		"Author": "liaojack8",
+		"Link": "https://github.com/liaojack8/ASUS-Z390F-Hack"
+	}
 ]
